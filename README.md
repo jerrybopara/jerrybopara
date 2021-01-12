@@ -1,4 +1,4 @@
-### Hi there 👋
+### :) 👋
 - :point_right: :man_technologist:	I’m currently working on my PowerMTA Mail Servers.
 - :point_right: :👯:	Always open for collaboration for such intersting projects and talks.
 - :point_right: If you've any question about Bulk Emailing OR Dedicated Email Server Setup, Just let me know...

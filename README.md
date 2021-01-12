@@ -1,5 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on my PowerMTA Mail Servers.
+- :man_technologist:	I’m currently working on my PowerMTA Mail Servers.
+- :v:	:point_right:	 Always open for collaboration for such intersting projects and talks.
 
 <!--
 **jerrybopara/jerrybopara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,10 +1,8 @@
 ### :) 👋
-- :point_right: :man_technologist:	I’m currently working on my PowerMTA Mail Servers.
-- :point_right: :👯:	Always open for collaboration for such intersting projects and talks.
-- :point_right: If you've any question about Bulk Emailing OR Dedicated Email Server Setup, Just let me know...
-- 👯 I’m looking to collaborate on Youtube, Blogging & Server Stuff.
-- 💬 Ask me about - Bulk EMailing, PowerMTA, Cloud Hosting, AWS, Scripting.
-- 📫 How to reach me: Skype - jarnail.boparai1991
+- 😄 :man_technologist:	I’m currently working on :point_right: PowerMTA Mail Servers.
+- 👯 I’m looking to collaborate on :point_right: Youtube, Blogging & Server Stuff.
+- 💬 Ask me about :point_right: Bulk EMailing, PowerMTA, Cloud Hosting, AWS, Scripting.
+- 📫 How to reach me :point_right: Skype - jarnail.boparai1991
 <!--
 **jerrybopara/jerrybopara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
